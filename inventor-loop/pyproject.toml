@@ -3,9 +3,9 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "inventor-loop-poc"
+name = "inventor-loop"
 version = "0.1.0"
-description = "Proof of concept for the Grounded Machine Invention (GMI) framework: a latent-iteration Inventor Loop vs. a token-iteration baseline on a 2D physics invention task."
+description = "Inventor Loop sandbox for Grounded Machine Invention: latent-iteration vs token-iteration on a 2D physics task."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

@@ -1,4 +1,4 @@
-# Inventor Loop — Proof of Concept
+# Inventor Loop
 
 A minimal, reproducible proof-of-concept for the **Grounded Machine Invention
 (GMI)** framework described in [`Research Paper`](../paper.md).
@@ -49,7 +49,7 @@ faithful to the paper's thesis:
 ## Repository layout
 
 ```
-poc/
+inventor-loop/
 ├── inventor/
 │   ├── world.py            2D physics world, scene bounds, coverage-shaped fitness
 │   ├── primitives.py       Plank primitive + grounded latent <-> scene codec
@@ -77,7 +77,7 @@ The project pins to Python 3.12. With [pyenv](https://github.com/pyenv/pyenv)
 the included `.python-version` selects the `lab` virtualenv automatically:
 
 ```bash
-cd poc
+cd inventor-loop
 pyenv activate lab          # or: python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 # optional, for clean imports without the sys.path shim:

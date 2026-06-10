@@ -1,0 +1,15 @@
+# Research paper (not part of the code repo)
+paper.md
+paper.tex
+paper.pdf
+references.bib
+paper.aux
+paper.bbl
+paper.blg
+paper.log
+paper.out
+CODE_TOUR.md
+
+# Local environment
+.venv/
+.vscode/

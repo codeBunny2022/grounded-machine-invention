@@ -1,0 +1,424 @@
+{
+  "episodes": [
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 0,
+      "seed": 0,
+      "fitness": 2.3491666666666666,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 2.3491666666666666
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 1,
+      "seed": 1000,
+      "fitness": 2.3491666666666666,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 2.3491666666666666
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 2,
+      "seed": 2000,
+      "fitness": 2.3491666666666666,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 2.3491666666666666
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 3,
+      "seed": 3000,
+      "fitness": 2.3491666666666666,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 2.3491666666666666
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 4,
+      "seed": 4000,
+      "fitness": 2.3491666666666666,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 2.3491666666666666
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 5,
+      "seed": 5000,
+      "fitness": 2.3491666666666666,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 2.3491666666666666
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 6,
+      "seed": 6000,
+      "fitness": 2.3491666666666666,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 2.3491666666666666
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 7,
+      "seed": 7000,
+      "fitness": 2.3491666666666666,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 2.3491666666666666
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 0,
+      "seed": 200,
+      "fitness": 0.8100201442598186,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.8100201442598186
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 1,
+      "seed": 1200,
+      "fitness": 0.8100201442598186,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.8100201442598186
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 2,
+      "seed": 2200,
+      "fitness": 0.8100201442598186,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.8100201442598186
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 3,
+      "seed": 3200,
+      "fitness": 0.8100201442598186,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.8100201442598186
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 4,
+      "seed": 4200,
+      "fitness": 0.8100201442598186,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.8100201442598186
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 5,
+      "seed": 5200,
+      "fitness": 0.8100201442598186,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.8100201442598186
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 6,
+      "seed": 6200,
+      "fitness": 0.8100201442598186,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.8100201442598186
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 7,
+      "seed": 7200,
+      "fitness": 0.8100201442598186,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.8100201442598186
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 0,
+      "seed": 100,
+      "fitness": 0.5894906691394188,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.5894906691394188
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 1,
+      "seed": 1100,
+      "fitness": 0.5894906691394188,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.5894906691394188
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 2,
+      "seed": 2100,
+      "fitness": 0.5894906691394188,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.5894906691394188
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 3,
+      "seed": 3100,
+      "fitness": 0.5894906691394188,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.5894906691394188
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 4,
+      "seed": 4100,
+      "fitness": 0.5894906691394188,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.5894906691394188
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 5,
+      "seed": 5100,
+      "fitness": 0.5894906691394188,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.5894906691394188
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 6,
+      "seed": 6100,
+      "fitness": 0.5894906691394188,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.5894906691394188
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 7,
+      "seed": 7100,
+      "fitness": 0.5894906691394188,
+      "iteration_cost": 1,
+      "llm_calls": 1,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.5894906691394188
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "agent": "token_baseline",
+      "n_episodes": 24,
+      "usefulness": 0.3333,
+      "originality": 0.0,
+      "surprise": 0.0,
+      "median_iteration_cost": 1.0,
+      "median_llm_calls": 1.0
+    }
+  ],
+  "cascade": null
+}

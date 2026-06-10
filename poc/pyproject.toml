@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inventor-loop-poc"
+version = "0.1.0"
+description = "Proof of concept for the Grounded Machine Invention (GMI) framework: a latent-iteration Inventor Loop vs. a token-iteration baseline on a 2D physics invention task."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pymunk>=6.6,<7.0",
+    "numpy>=1.26",
+    "pydantic>=2.6",
+    "python-dotenv>=1.0",
+    "matplotlib>=3.8",
+]
+
+[project.optional-dependencies]
+llm = ["openai>=1.40", "anthropic>=0.34"]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools]
+packages = ["inventor", "inventor.agents"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

@@ -1,0 +1,2102 @@
+{
+  "episodes": [
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 0,
+      "seed": 3,
+      "fitness": 0.7485234508236084,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7484041505307844
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.258892740166427
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.741432041302073
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.2518291104339113
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7485234508236084
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 1,
+      "seed": 1003,
+      "fitness": 0.7485234508236084,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7484041505307844
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.258892740166427
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.741432041302073
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.2518291104339113
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7485234508236084
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 2,
+      "seed": 2003,
+      "fitness": 0.7485234508236084,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7484041505307844
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.258892740166427
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.741432041302073
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.2518291104339113
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7485234508236084
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 3,
+      "seed": 3003,
+      "fitness": 0.7485234508236084,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7484041505307844
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.258892740166427
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.741432041302073
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.2518291104339113
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7485234508236084
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_easy",
+      "episode": 4,
+      "seed": 4003,
+      "fitness": 0.7485234508236084,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7484041505307844
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.258892740166427
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.741432041302073
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.2518291104339113
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7485234508236084
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 0,
+      "seed": 65,
+      "fitness": 1.245,
+      "iteration_cost": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 1.245
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 1,
+      "seed": 1065,
+      "fitness": 1.245,
+      "iteration_cost": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 1.245
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 2,
+      "seed": 2065,
+      "fitness": 1.245,
+      "iteration_cost": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 1.245
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 3,
+      "seed": 3065,
+      "fitness": 1.245,
+      "iteration_cost": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 1.245
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_medium",
+      "episode": 4,
+      "seed": 4065,
+      "fitness": 1.245,
+      "iteration_cost": 1,
+      "reached": true,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 1.245
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 0,
+      "seed": 40,
+      "fitness": 0.7719448962705255,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7717476110850057
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.34355867083816266
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.19209894192282215
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.7719448962705255
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7706506478047472
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 1,
+      "seed": 1040,
+      "fitness": 0.7719448962705255,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7717476110850057
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.34355867083816266
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.19209894192282215
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.7719448962705255
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7706506478047472
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 2,
+      "seed": 2040,
+      "fitness": 0.7719448962705255,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7717476110850057
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.34355867083816266
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.19209894192282215
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.7719448962705255
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7706506478047472
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 3,
+      "seed": 3040,
+      "fitness": 0.7719448962705255,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7717476110850057
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.34355867083816266
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.19209894192282215
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.7719448962705255
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7706506478047472
+        }
+      ]
+    },
+    {
+      "agent": "token_baseline",
+      "task": "chasm_hard",
+      "episode": 4,
+      "seed": 4040,
+      "fitness": 0.7719448962705255,
+      "iteration_cost": 5,
+      "reached": false,
+      "predicted_fitness": null,
+      "trace": [
+        {
+          "attempt": 0,
+          "fitness": 0.7717476110850057
+        },
+        {
+          "attempt": 1,
+          "fitness": 0.34355867083816266
+        },
+        {
+          "attempt": 2,
+          "fitness": 0.19209894192282215
+        },
+        {
+          "attempt": 3,
+          "fitness": 0.7719448962705255
+        },
+        {
+          "attempt": 4,
+          "fitness": 0.7706506478047472
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_easy",
+      "episode": 0,
+      "seed": 3,
+      "fitness": 0.7424357478029493,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7424357478029493,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7424357478029493,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7424357478029493,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7424357478029493,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7424357478029493,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7424357478029493,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7424357478029493,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7424357478029493,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7424357478029493,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7424357478029493,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7424357478029493,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7424357478029493,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7424357478029493,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7424357478029493,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7424357478029493,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7424357478029493,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7424357478029493,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7424357478029493,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7424357478029493,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7424357478029493,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7424357478029493,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_easy",
+      "episode": 1,
+      "seed": 1003,
+      "fitness": 0.7424357478029493,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7424357478029493,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7424357478029493,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7424357478029493,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7424357478029493,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7424357478029493,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7424357478029493,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7424357478029493,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7424357478029493,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7424357478029493,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7424357478029493,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7424357478029493,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7424357478029493,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7424357478029493,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7424357478029493,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7424357478029493,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7424357478029493,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7424357478029493,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7424357478029493,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7424357478029493,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7424357478029493,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7424357478029493,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_easy",
+      "episode": 2,
+      "seed": 2003,
+      "fitness": 0.7424357478029493,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7424357478029493,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7424357478029493,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7424357478029493,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7424357478029493,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7424357478029493,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7424357478029493,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7424357478029493,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7424357478029493,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7424357478029493,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7424357478029493,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7424357478029493,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7424357478029493,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7424357478029493,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7424357478029493,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7424357478029493,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7424357478029493,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7424357478029493,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7424357478029493,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7424357478029493,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7424357478029493,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7424357478029493,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_easy",
+      "episode": 3,
+      "seed": 3003,
+      "fitness": 0.7424357478029493,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7424357478029493,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7424357478029493,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7424357478029493,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7424357478029493,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7424357478029493,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7424357478029493,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7424357478029493,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7424357478029493,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7424357478029493,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7424357478029493,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7424357478029493,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7424357478029493,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7424357478029493,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7424357478029493,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7424357478029493,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7424357478029493,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7424357478029493,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7424357478029493,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7424357478029493,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7424357478029493,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7424357478029493,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_easy",
+      "episode": 4,
+      "seed": 4003,
+      "fitness": 0.7567435135048621,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7567435135048621,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7424357478029493,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7424357478029493,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7424357478029493,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7424357478029493,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7424357478029493,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7424357478029493,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7524779450392409,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7524779450392409,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7524779450392409,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7524779450392409,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7524779450392409,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7524779450392409,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7524779450392409,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7524779450392409,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7524779450392409,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7524779450392409,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7524779450392409,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7524779450392409,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7567435135048621,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7567435135048621,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_medium",
+      "episode": 0,
+      "seed": 65,
+      "fitness": 0.7686255754653788,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7686255754653788,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7686255754653788,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7686255754653788,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7686255754653788,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7686255754653788,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7686255754653788,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7686255754653788,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7686255754653788,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7686255754653788,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7686255754653788,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7686255754653788,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7686255754653788,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7686255754653788,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7686255754653788,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7686255754653788,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7686255754653788,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7686255754653788,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7686255754653788,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7686255754653788,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7686255754653788,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7686255754653788,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_medium",
+      "episode": 1,
+      "seed": 1065,
+      "fitness": 0.7686255754653788,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7686255754653788,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7686255754653788,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7686255754653788,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7686255754653788,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7686255754653788,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7686255754653788,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7686255754653788,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7686255754653788,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7686255754653788,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7686255754653788,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7686255754653788,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7686255754653788,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7686255754653788,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7686255754653788,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7686255754653788,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7686255754653788,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7686255754653788,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7686255754653788,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7686255754653788,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7686255754653788,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7686255754653788,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_medium",
+      "episode": 2,
+      "seed": 2065,
+      "fitness": 0.7686255754653788,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7686255754653788,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7686255754653788,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7686255754653788,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7686255754653788,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7686255754653788,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7686255754653788,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7686255754653788,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7686255754653788,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7686255754653788,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7686255754653788,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7686255754653788,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7686255754653788,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7686255754653788,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7686255754653788,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7686255754653788,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7686255754653788,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7686255754653788,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7686255754653788,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7686255754653788,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7686255754653788,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7686255754653788,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_medium",
+      "episode": 3,
+      "seed": 3065,
+      "fitness": 0.7686255754653788,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7686255754653788,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7686255754653788,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7686255754653788,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7686255754653788,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7686255754653788,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7686255754653788,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7686255754653788,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7686255754653788,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7686255754653788,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7686255754653788,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7686255754653788,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7686255754653788,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7686255754653788,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7686255754653788,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7686255754653788,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7686255754653788,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7686255754653788,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7686255754653788,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7686255754653788,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7686255754653788,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7686255754653788,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_medium",
+      "episode": 4,
+      "seed": 4065,
+      "fitness": 0.7686255754653788,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7686255754653788,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7686255754653788,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7686255754653788,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7686255754653788,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7686255754653788,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7686255754653788,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7686255754653788,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7686255754653788,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7686255754653788,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7686255754653788,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7686255754653788,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7686255754653788,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7686255754653788,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7686255754653788,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7686255754653788,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7686255754653788,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7686255754653788,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7686255754653788,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7686255754653788,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7686255754653788,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7686255754653788,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_hard",
+      "episode": 0,
+      "seed": 40,
+      "fitness": 0.7716585024086413,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7716585024086413,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7716585024086413,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7716585024086413,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7716585024086413,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7716585024086413,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7716585024086413,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7716585024086413,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7716585024086413,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7716585024086413,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7716585024086413,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7716585024086413,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7716585024086413,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7716585024086413,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7716585024086413,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7716585024086413,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7716585024086413,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7716585024086413,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7716585024086413,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7716585024086413,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7716585024086413,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7716585024086413,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_hard",
+      "episode": 1,
+      "seed": 1040,
+      "fitness": 0.7716585024086413,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7716585024086413,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7716585024086413,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7716585024086413,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7716585024086413,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7716585024086413,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7716585024086413,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7716585024086413,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7716585024086413,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7716585024086413,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7716585024086413,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7716585024086413,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7716585024086413,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7716585024086413,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7716585024086413,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7716585024086413,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7716585024086413,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7716585024086413,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7716585024086413,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7716585024086413,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7716585024086413,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7716585024086413,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_hard",
+      "episode": 2,
+      "seed": 2040,
+      "fitness": 0.7741121626168075,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7741121626168075,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7716585024086413,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7716585024086413,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7716585024086413,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7716585024086413,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7716585024086413,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7716585024086413,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7716585024086413,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7741121626168075,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7741121626168075,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7741121626168075,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7741121626168075,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7741121626168075,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7741121626168075,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7741121626168075,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7741121626168075,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7741121626168075,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7741121626168075,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7741121626168075,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7741121626168075,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7741121626168075,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_hard",
+      "episode": 3,
+      "seed": 3040,
+      "fitness": 0.7716585024086413,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7716585024086413,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7716585024086413,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7716585024086413,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7716585024086413,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7716585024086413,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7716585024086413,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7716585024086413,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7716585024086413,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7716585024086413,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7716585024086413,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7716585024086413,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7716585024086413,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7716585024086413,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7716585024086413,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7716585024086413,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7716585024086413,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7716585024086413,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7716585024086413,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7716585024086413,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7716585024086413,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7716585024086413,
+          "sims": 320
+        }
+      ]
+    },
+    {
+      "agent": "inventor_loop",
+      "task": "chasm_hard",
+      "episode": 4,
+      "seed": 4040,
+      "fitness": 0.7716585024086413,
+      "iteration_cost": 320,
+      "reached": false,
+      "predicted_fitness": 0.7716585024086413,
+      "trace": [
+        {
+          "iter": 0,
+          "best_fit": 0.7716585024086413,
+          "sims": 16
+        },
+        {
+          "iter": 1,
+          "best_fit": 0.7716585024086413,
+          "sims": 32
+        },
+        {
+          "iter": 2,
+          "best_fit": 0.7716585024086413,
+          "sims": 48
+        },
+        {
+          "iter": 3,
+          "best_fit": 0.7716585024086413,
+          "sims": 64
+        },
+        {
+          "iter": 4,
+          "best_fit": 0.7716585024086413,
+          "sims": 80
+        },
+        {
+          "iter": 5,
+          "best_fit": 0.7716585024086413,
+          "sims": 96
+        },
+        {
+          "iter": 6,
+          "best_fit": 0.7716585024086413,
+          "sims": 112
+        },
+        {
+          "iter": 7,
+          "best_fit": 0.7716585024086413,
+          "sims": 128
+        },
+        {
+          "iter": 8,
+          "best_fit": 0.7716585024086413,
+          "sims": 144
+        },
+        {
+          "iter": 9,
+          "best_fit": 0.7716585024086413,
+          "sims": 160
+        },
+        {
+          "iter": 10,
+          "best_fit": 0.7716585024086413,
+          "sims": 176
+        },
+        {
+          "iter": 11,
+          "best_fit": 0.7716585024086413,
+          "sims": 192
+        },
+        {
+          "iter": 12,
+          "best_fit": 0.7716585024086413,
+          "sims": 208
+        },
+        {
+          "iter": 13,
+          "best_fit": 0.7716585024086413,
+          "sims": 224
+        },
+        {
+          "iter": 14,
+          "best_fit": 0.7716585024086413,
+          "sims": 240
+        },
+        {
+          "iter": 15,
+          "best_fit": 0.7716585024086413,
+          "sims": 256
+        },
+        {
+          "iter": 16,
+          "best_fit": 0.7716585024086413,
+          "sims": 272
+        },
+        {
+          "iter": 17,
+          "best_fit": 0.7716585024086413,
+          "sims": 288
+        },
+        {
+          "iter": 18,
+          "best_fit": 0.7716585024086413,
+          "sims": 304
+        },
+        {
+          "iter": 19,
+          "best_fit": 0.7716585024086413,
+          "sims": 320
+        }
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "agent": "token_baseline",
+      "n_episodes": 15,
+      "usefulness": 0.3333,
+      "originality": 0.0,
+      "surprise": 0.0,
+      "median_iteration_cost": 5.0
+    },
+    {
+      "agent": "inventor_loop",
+      "n_episodes": 15,
+      "usefulness": 0.0,
+      "originality": 0.0,
+      "surprise": 0.0,
+      "median_iteration_cost": 320.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Grounded Machine Invention — Inventor Loop"
+message: >-
+  If you use this software, please cite it using the metadata in this file
+  and, when available, the accompanying research paper.
+type: software
+authors:
+  - family-names: Chauhan
+    given-names: Chirag
+repository-code: "https://github.com/codeBunny2022/grounded-machine-invention"
+url: "https://github.com/codeBunny2022/grounded-machine-invention"
+license: MIT
+version: 0.1.0
+date-released: "2026-06-10"
+keywords:
+  - grounded world models
+  - embodied AI
+  - computational creativity
+  - inventor loop
+  - latent iteration
+abstract: >-
+  Proof-of-concept sandbox comparing a token-iteration LLM baseline with an
+  Inventor Loop agent that searches in grounded latent space before language
+  projection, on a 2D rigid-body physics invention task.
+preferred-citation:
+  type: article
+  title: "Grounded Machine Invention: Toward Pre-Linguistic Creative Intelligence Through Embodied World Models"
+  authors:
+    - family-names: Chauhan
+      given-names: Chirag
+  year: 2026
+  notes: "Preprint; arXiv identifier to be added after submission."

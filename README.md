@@ -79,4 +79,27 @@ The LaTeX source and PDF are kept locally with the paper draft and are not part 
 
 ## Citation
 
-If you use this code, please cite the accompanying paper (preprint link TBD).
+If you use this code, please cite:
+
+```bibtex
+@software{chauhan2026inventorloop,
+  author = {Chirag Chauhan},
+  title = {Grounded Machine Invention — Inventor Loop},
+  year = {2026},
+  url = {https://github.com/codeBunny2022/grounded-machine-invention},
+  version = {v0.1.0}
+}
+```
+
+For the research paper:
+
+```bibtex
+@article{chauhan2026gmi,
+  author = {Chirag Chauhan},
+  title = {Grounded Machine Invention: Toward Pre-Linguistic Creative Intelligence Through Embodied World Models},
+  year = {2026},
+  note = {Preprint}
+}
+```
+
+Licensed under [MIT](LICENSE).
